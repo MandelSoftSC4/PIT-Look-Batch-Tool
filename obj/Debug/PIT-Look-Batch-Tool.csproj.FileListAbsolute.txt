@@ -1,6 +1,0 @@
-c:\users\mrtnr\documents\visual studio 2015\Projects\PIT-Look-Batch-Tool\PIT-Look-Batch-Tool\bin\Debug\PIT-Look-Batch-Tool.exe.config
-C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PIT-Look-Batch-Tool\PIT-Look-Batch-Tool\bin\Debug\PIT-Look-Batch-Tool.exe
-C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PIT-Look-Batch-Tool\PIT-Look-Batch-Tool\bin\Debug\PIT-Look-Batch-Tool.pdb
-C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PIT-Look-Batch-Tool\PIT-Look-Batch-Tool\obj\Debug\PIT-Look-Batch-Tool.csprojResolveAssemblyReference.cache
-C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PIT-Look-Batch-Tool\PIT-Look-Batch-Tool\obj\Debug\PIT-Look-Batch-Tool.exe
-C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PIT-Look-Batch-Tool\PIT-Look-Batch-Tool\obj\Debug\PIT-Look-Batch-Tool.pdb
